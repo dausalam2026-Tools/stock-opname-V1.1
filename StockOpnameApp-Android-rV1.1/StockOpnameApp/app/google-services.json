@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552338241029",
+    "project_id": "stock-opname-tool",
+    "storage_bucket": "stock-opname-tool.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552338241029:android:2b055aa3144f5942a3ce6c",
+        "android_client_info": {
+          "package_name": "com.gmf.stockopname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCDoVASMS56ksDZCYGDEDh6zNlc9BTGAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
